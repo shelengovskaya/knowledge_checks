@@ -52,7 +52,7 @@ i:=0; k:=0;
   //6
 IF form3.Checkbox1.checked=true then
     begin
-    assignfile(f1,'https://github.com/shelengovskaya/knowledge_checks/blob/master/History_of_Belarus_events/6.txt');
+    assignfile(f1,'History_of_Belarus_events/6.txt');
     reset(f1);
     while not eof(f1) do
          begin

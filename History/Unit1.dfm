@@ -1,6 +1,6 @@
 object Form1: TForm1
-  Left = 391
-  Top = 362
+  Left = 449
+  Top = 414
   Width = 1036
   Height = 581
   Color = clSkyBlue
