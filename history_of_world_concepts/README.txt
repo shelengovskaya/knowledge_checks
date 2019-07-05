@@ -1,0 +1,1 @@
+You should download all fales in one folder. Open history_of_world_concepts.exe.

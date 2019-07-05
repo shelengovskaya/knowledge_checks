@@ -1,0 +1,1 @@
+You should download all fales in one folder. Open History_of_Belarus_concepts.exe.

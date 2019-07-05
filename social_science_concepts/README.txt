@@ -1,0 +1,1 @@
+You should download all fales in one folder. Open social_science_concepts.exe.
